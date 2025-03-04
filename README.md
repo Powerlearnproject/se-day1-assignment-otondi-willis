@@ -1,5 +1,5 @@
 # SE_Day1  
-Software Engineering Day 1 Assignment  
+Software Engineering Day 1 Assignment
 
 ## Part 1: Introduction to Software Engineering  
 
